@@ -1,0 +1,9 @@
+
+*.xml
+*.png
+database/Viral Pneumonia.metadata.xlsx
+database/README.md.txt
+database/Normal.metadata.xlsx
+database/Lung_Opacity.metadata.xlsx
+database/COVID.metadata.xlsx
+.idea/workspace.iml
